@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "452430481085",
+      "project_id": "gymguys-first",
+      "storage_bucket": "gymguys-first.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:452430481085:android:aab3739d3f8d08a71319d4",
+          "android_client_info": {
+            "package_name": "com.example.gymguys"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBqXxU52XtXlbkJpGR-2SVQFYTz-SoFBrA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

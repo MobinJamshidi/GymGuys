@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- GYM Guys Logo - Simple dumbbell icon -->
+    <path
+        android:fillColor="#EC6426"
+        android:pathData="M30,40 L30,68 L38,68 L38,40 Z" />
+    <path
+        android:fillColor="#EC6426"
+        android:pathData="M70,40 L70,68 L78,68 L78,40 Z" />
+    <path
+        android:fillColor="#EC6426"
+        android:pathData="M25,45 L25,63 L30,63 L30,45 Z" />
+    <path
+        android:fillColor="#EC6426"
+        android:pathData="M78,45 L78,63 L83,63 L83,45 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,50 L38,58 L70,58 L70,50 Z" />
+    <path
+        android:fillColor="#632713"
+        android:pathData="M40,52 L40,56 L68,56 L68,52 Z" />
+</vector>
+

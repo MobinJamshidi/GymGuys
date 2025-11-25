@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="300dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FF4CAF50"
+        android:pathData="M150,50 A100,100 0 1,1 150,250 A100,100 0 1,1 150,50 Z" />
+    
+    <!-- Exercise Icons -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,90 L180,90 L180,110 L120,110 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,130 L180,130 L180,150 L120,150 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,170 L180,170 L180,190 L120,190 Z" />
+    
+    <!-- Plus Icons -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M140,95 L160,95 L160,105 L140,105 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M140,135 L160,135 L160,145 L140,145 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M140,175 L160,175 L160,185 L140,185 Z" />
+    
+</vector>
+
+
+
+
+
+
