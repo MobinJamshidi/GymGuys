@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="300dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+    
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FF007AFF"
+        android:pathData="M150,50 A100,100 0 1,1 150,250 A100,100 0 1,1 150,50 Z" />
+    
+    <!-- Gym Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,100 L180,100 L180,200 L120,200 Z" />
+    
+    <!-- Dumbbell -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,130 L200,130 L200,140 L100,140 Z" />
+    
+    <!-- Text -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M130,160 L170,160 L170,170 L130,170 Z" />
+    
+</vector>
+
+
+
+
+
+
